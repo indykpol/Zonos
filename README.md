@@ -157,3 +157,6 @@ docker run -it --gpus=all --net=host -v /path/to/Zonos:/Zonos -t zonos
 cd /Zonos
 python sample.py # this will generate a sample.wav in /Zonos
 ```
+
+## Windows installation
+Windows installation is covered in this repository: https://github.com/sdbds/Zonos-for-windows
